@@ -1,8 +1,8 @@
-# Welcome to your Expo app 👋
+# ReactNative web com  Expo  👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Para rodar o projeto voce precisa 
 
 1. Install dependencies
 
@@ -10,11 +10,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Start the app
+2. e para rodar o projeto 
 
    ```bash
     npx expo start
    ```
+##caso não tenha o emulador no computador
+ aconselho a baixar o Expo Go
 
 In the output, you'll find options to open the app in a
 
